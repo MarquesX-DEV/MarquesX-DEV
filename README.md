@@ -6,7 +6,7 @@ Eu sou Pedro Marques , sou programador Front End , atualmente estou aprendendo e
 <br>
 Atuamente sou aluno do <b>DevClub</b> onde tenho aprendido bastantes conceitos com <b>Rodolfo Mori</b> 
 <br>
-Estou estudando há 8 meses , neste tempo criei alguns projetos voçê pode encontralos em (-------------------------------------------------------------------)
+Estou estudando há 8 meses , neste tempo criei alguns projetos voçê pode encontralos em (--Em Breve Portfolio---)
 <br>
 <br>
 
